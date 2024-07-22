@@ -1,5 +1,6 @@
 # jenkins_ecs
 CI/CD configuration with ECS using Jenkins
+![image](https://github.com/user-attachments/assets/a0646584-bc7a-4ccb-b584-7e07a5a40cc4)
 
 ## 개요
 frontend 폴더 안에 있는 React app의 소스 코드가 변경이 되면, 이를 감지해서 Jenkins 서버로 trigger를 하여 react-pipeline을 실행
