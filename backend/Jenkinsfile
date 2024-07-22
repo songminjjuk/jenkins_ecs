@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        ECR_REPO_URL = '132464628555.dkr.ecr.ap-northeast-2.amazonaws.com'
+        ECR_REPO_URL = 'xxxxxxxxxxxx.dkr.ecr.ap-northeast-2.amazonaws.com'
         CLUSTER_NAME = 'ecs-cluster'
         SERVICE_NAME = 'ecs-back-svc'
     }
